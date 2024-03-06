@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669846185671",
+    "project_id": "portpolio-favorite-kt",
+    "storage_bucket": "portpolio-favorite-kt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669846185671:android:c280214a9aa0a369efc0e2",
+        "android_client_info": {
+          "package_name": "com.example.portpolio_favolite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA690Vs1lVfm7dwcsWrKmx6aY5Ee7AmMww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
